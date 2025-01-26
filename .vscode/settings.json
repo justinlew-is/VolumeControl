@@ -1,0 +1,14 @@
+{
+    "idf.openOcdConfigs": [
+        "board/esp32c6-builtin.cfg"
+    ],
+    "idf.flashType": "UART",
+    "idf.port": "/dev/tty.usbmodem101",
+    "idf.espIdfPath": "/Users/justinlewis/esp/v5.2.3/esp-idf",
+    "idf.toolsPath": "/Users/justinlewis/.espressif",
+    "files.associations": {
+        "filesystem": "cpp",
+        "array": "cpp",
+        "tuple": "cpp"
+    }
+}
